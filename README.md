@@ -65,19 +65,6 @@ Here is a simple **HTML & CSS** snippet from the project:
 
 ---
 
-## 🤝 Contribution Guidelines
-1. **Fork the repository.**
-2. **Create a new branch for your changes:**  
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. **Make changes and commit:**  
-   ```bash
-   git commit -m "Added new feature"
-   ```
-4. **Push to GitHub and create a Pull Request.**
-
----
 
 ## 📜 License
 This project is licensed under MIT License.
@@ -88,3 +75,4 @@ This project is licensed under MIT License.
 • Shally
 • Shubhi
 • Sajal
+This is the changes made
